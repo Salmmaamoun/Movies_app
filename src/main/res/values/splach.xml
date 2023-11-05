@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#202020</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/movies</item>
+        <item name="postSplashScreenTheme">@style/Theme.Movies</item>
+        <item name="android:duration">5000</item>
+    </style>
+</resources>
