@@ -1,6 +1,4 @@
 package com.example.movies.data.api
-import com.example.movies.data.api.model.MovieDetailsResponse
-import com.example.movies.data.api.model.PopularMovieResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path
